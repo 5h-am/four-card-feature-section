@@ -16,7 +16,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-![Project Screenshot]()
+![Project Screenshot](https://github.com/5h-am/four-card-feature-section/blob/main/Project-Screenshot.png?raw=True)
 
 
 ### Links
